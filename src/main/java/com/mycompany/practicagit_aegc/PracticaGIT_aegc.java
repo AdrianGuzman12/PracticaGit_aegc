@@ -12,7 +12,8 @@ public class PracticaGIT_aegc {
 
     public static void main(String[] args) {
         System.out.println("La suma de 2 números ");
-    
+    int 
+            
     
     }
 }
