@@ -11,6 +11,8 @@ package com.mycompany.practicagit_aegc;
 public class PracticaGIT_aegc {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Sistema de gestión de alumnos ");
+    
+    
     }
 }
