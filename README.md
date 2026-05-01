@@ -1,0 +1,1 @@
+Se realizó la práctica del repositorio agregando dos archivos a la rama principal, los cueales corresponden a aplicaciones de estructuras cíclicas, así mismo se creó una rama llamada respaldo donde se anexo dos archivos para su posterior modificación.
